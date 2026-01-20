@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Anuj Das, a 1st year student currently persuing Btech in CSE(AI) Hons.I code to understand how things work.I learn by implementing ideas myself, breaking them, and fixing them until they make sense.
+I share my work and progress openly here, even when it’s unfinished.
+
 <!--
 **anxj-xe/anxj-xe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
