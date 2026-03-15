@@ -1,7 +1,8 @@
 # Hey! I'm Anuj:
 I am a 1st-year B.Tech student currently pursuing CSE (AI). I code to understand and build things on my own.
 <br><br>
-# Check out my Portfolio: [Anuj Das](https://anuj-portfolio-indol.vercel.app/)
+# Check out my Portfolio: 
+                          [Anuj Das](https://anuj-portfolio-indol.vercel.app/)
 
 
 ## Socials:
