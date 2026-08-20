@@ -10,6 +10,7 @@ I am a 1st-year B.Tech student currently pursuing CSE (AI). I code to understand
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+<!--
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anxj-xe&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anxj-xe&theme=shadow_blue&hide_border=false)<br/>
@@ -17,7 +18,7 @@ I am a 1st-year B.Tech student currently pursuing CSE (AI). I code to understand
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anxj-xe&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
