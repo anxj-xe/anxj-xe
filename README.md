@@ -12,7 +12,17 @@ I code to understand how things work, solve problems, and build things independe
 
 [![Visit My LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/anxj_xe/)
 
-![LeetCode Stats](https://leetcode-stats.tashif.codes/anxj_xe/stats/svg)
+<div align="center">
+
+### Problem Solving Statistics
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anxj_xe?theme=dark&font=Inter&hide=top-langs&border=0&radius=12)](https://leetcode.com/u/anxj_xe/)
+
+### Submission Activity
+
+[![LeetCode Activity Heatmap](https://leetcard.jacoblin.cool/anxj_xe?theme=dark&font=Inter&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/anxj_xe/)
+
+</div>
 
 ## Connect with Me
 
@@ -39,5 +49,3 @@ I code to understand how things work, solve problems, and build things independe
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 ---
-
-*Always learning, building, and improving through consistent practice.*
