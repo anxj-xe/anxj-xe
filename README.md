@@ -14,10 +14,6 @@ I code to understand how things work, solve problems, and build things independe
 
 <div align="center">
 
-### Problem Solving Statistics
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/anxj_xe?theme=dark&font=Inter&hide=top-langs&border=0&radius=12)](https://leetcode.com/u/anxj_xe/)
-
 ### Submission Activity
 
 [![LeetCode Activity Heatmap](https://leetcard.jacoblin.cool/anxj_xe?theme=dark&font=Inter&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/anxj_xe/)
