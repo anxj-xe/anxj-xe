@@ -1,37 +1,52 @@
-# Hey! I'm Anuj:
-I am a 2nd-year B.Tech student currently pursuing CSE (AI). I code to understand and build things on my own.
-<br><br>
-## Check out my Portfolio: 
-  [Anuj Das](https://anuj-portfolio-indol.vercel.app/)
+# Anuj Das
 
+Second-year B.Tech student pursuing Computer Science and Engineering (Artificial Intelligence).
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-das-926955383) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anuj352408) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anujdas2742006@gmail.com) 
+I code to understand how things work, solve problems, and build things independently. Currently focused on strengthening my Data Structures and Algorithms skills while exploring software development and AI/ML.
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-<!--
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anxj-xe&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anxj-xe&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anxj-xe&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Portfolio
+
+[Anuj Das | Personal Portfolio](https://anuj-portfolio-indol.vercel.app/)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-das-926955383)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Anuj352408)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anujdas2742006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anxj-xe)
+
+## Technical Skills
+
+**Programming Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Hardware and Embedded Systems**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+
+## Coding Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/anxj_xe/)
+
+[View my LeetCode profile](https://leetcode.com/u/anxj_xe/)
+
+## LeetCode Statistics
+
+![LeetCode Stats](https://leetcode-stats.tashif.codes/anxj_xe/stats/svg)
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anxj-xe&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anxj-xe&layout=compact&theme=github_dark&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anxj-xe&icon=0&color=0)](https://visitcount.itsvg.in)
--->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**anxj-xe/anxj-xe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
